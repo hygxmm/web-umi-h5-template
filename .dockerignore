@@ -1,0 +1,14 @@
+node_modules
+dist
+test
+coverage
+.dockerignore
+.git
+.gitignore
+README.md
+LICENSE
+tsconfig.build.json
+.eslintrc.js
+.prettierrc
+yarn-error.log
+*.log
